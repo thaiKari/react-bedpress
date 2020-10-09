@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-bedpress/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-bedpress/static/js/main.0333aa7c.chunk.js",
+    "main.js.map": "/react-bedpress/static/js/main.0333aa7c.chunk.js.map",
+    "runtime-main.js": "/react-bedpress/static/js/runtime-main.b43cbe31.js",
+    "runtime-main.js.map": "/react-bedpress/static/js/runtime-main.b43cbe31.js.map",
+    "static/js/2.8f987999.chunk.js": "/react-bedpress/static/js/2.8f987999.chunk.js",
+    "static/js/2.8f987999.chunk.js.map": "/react-bedpress/static/js/2.8f987999.chunk.js.map",
+    "index.html": "/react-bedpress/index.html",
+    "precache-manifest.75302374e14b0058e476c8228f56f9e0.js": "/react-bedpress/precache-manifest.75302374e14b0058e476c8228f56f9e0.js",
+    "service-worker.js": "/react-bedpress/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-bedpress/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.8f987999.chunk.js.LICENSE.txt": "/react-bedpress/static/js/2.8f987999.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-bedpress/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b43cbe31.js",
+    "static/js/2.8f987999.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.0333aa7c.chunk.js"
+  ]
+}

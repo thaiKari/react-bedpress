@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/react-bedpress/static/css/main.5f361e03.chunk.css",
-    "main.js": "/react-bedpress/static/js/main.0333aa7c.chunk.js",
-    "main.js.map": "/react-bedpress/static/js/main.0333aa7c.chunk.js.map",
+    "main.css": "/react-bedpress/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/react-bedpress/static/js/main.912d5aff.chunk.js",
+    "main.js.map": "/react-bedpress/static/js/main.912d5aff.chunk.js.map",
     "runtime-main.js": "/react-bedpress/static/js/runtime-main.b43cbe31.js",
     "runtime-main.js.map": "/react-bedpress/static/js/runtime-main.b43cbe31.js.map",
-    "static/js/2.8f987999.chunk.js": "/react-bedpress/static/js/2.8f987999.chunk.js",
-    "static/js/2.8f987999.chunk.js.map": "/react-bedpress/static/js/2.8f987999.chunk.js.map",
+    "static/css/2.0a5b19c0.chunk.css": "/react-bedpress/static/css/2.0a5b19c0.chunk.css",
+    "static/js/2.16ab8709.chunk.js": "/react-bedpress/static/js/2.16ab8709.chunk.js",
+    "static/js/2.16ab8709.chunk.js.map": "/react-bedpress/static/js/2.16ab8709.chunk.js.map",
     "index.html": "/react-bedpress/index.html",
-    "precache-manifest.75302374e14b0058e476c8228f56f9e0.js": "/react-bedpress/precache-manifest.75302374e14b0058e476c8228f56f9e0.js",
+    "precache-manifest.9b814890d17dae93573dc8591374bf59.js": "/react-bedpress/precache-manifest.9b814890d17dae93573dc8591374bf59.js",
     "service-worker.js": "/react-bedpress/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/react-bedpress/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.8f987999.chunk.js.LICENSE.txt": "/react-bedpress/static/js/2.8f987999.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/react-bedpress/static/media/logo.5d5d9eef.svg"
+    "static/css/2.0a5b19c0.chunk.css.map": "/react-bedpress/static/css/2.0a5b19c0.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/react-bedpress/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.16ab8709.chunk.js.LICENSE.txt": "/react-bedpress/static/js/2.16ab8709.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b43cbe31.js",
-    "static/js/2.8f987999.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.0333aa7c.chunk.js"
+    "static/css/2.0a5b19c0.chunk.css",
+    "static/js/2.16ab8709.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.912d5aff.chunk.js"
   ]
 }
